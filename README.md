@@ -6,10 +6,15 @@ This project is a Railway Booking System built using Java, data structures, and 
 
 # Features
 • User Registration and Login
+
 • Train Scheduling and Management
+
 • Ticket Booking and Cancellation
+
 • Booking History and Status
+
 • Admin Portal for managing trains, bookings, and user accounts
+
 • Data stored in a relational database using JDBC
 
 # Technologies Used
