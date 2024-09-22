@@ -25,7 +25,9 @@ This project is a Railway Booking System built using Java, data structures, and 
 
 # System Requirements
 → Java 8 or later
+
 → MySQL Server 5.6 or later
+
 → JDBC Driver for MySQL
 
 # Setup and Installation
