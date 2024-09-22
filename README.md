@@ -30,7 +30,7 @@ This project is a Railway Booking System built using Java, data structures, and 
 
 # Setup and Installation
 
-→ Clone the repository: git clone [https://github.com/your-username/railway-booking-system.git](https://github.com/Krish-zinzuvadiya/Railway-Booking-System/tree/main)
+→ Clone the repository: git clone https://github.com/Krish-zinzuvadiya/Railway-Booking-System.git
   Create a MySQL database and add the JDBC driver to your project's classpath.
   Update the database.properties file with your database credentials.
   Compile and run the project using javac and java commands.
