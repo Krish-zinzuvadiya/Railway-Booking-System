@@ -1,0 +1,42 @@
+Booked Ticket:
+--------------------------------------------
+Train No: 16
+Train Name: Express
+Source: Bhav
+Destination: Ahm
+Departure Time: 06:00:00
+Arrival Time: 07:00:00
+Total Fare: 240.0
+Seats: 2
+Booking Date: 2024-08-05
+--------------------------------------------
+
+Booked Ticket:
+--------------------------------------------
+User ID: 27
+User Name: 9
+Train No: 15
+Train Name: VandeBharat
+Source: Ahm
+Destination: Mumbai
+Departure Time: 06:30:00
+Arrival Time: 11:20:00
+Total Fare: 1200.0
+Seats: 1
+Booking Date: 2024-03
+--------------------------------------------
+
+Booked Ticket:
+--------------------------------------------
+User ID: 27
+Train No: 15
+Train Name: VandeBharat
+Source: Ahm
+Destination: Mumbai
+Departure Time: 06:30:00
+Arrival Time: 11:20:00
+Total Fare: 1200.0
+Seats: 1
+Booking Date: 2024-08-23
+--------------------------------------------
+

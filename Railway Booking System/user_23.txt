@@ -1,0 +1,14 @@
+Booked Ticket:
+--------------------------------------------
+User ID: 23
+Train No: 15
+Train Name: VandeBharat
+Source: Ahm
+Destination: Mumbai
+Departure Time: 06:30:00
+Arrival Time: 11:20:00
+Total Fare: 1200.0
+Seats: 1
+Booking Date: 2025-01-23
+--------------------------------------------
+

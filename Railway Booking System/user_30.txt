@@ -1,0 +1,14 @@
+Booked Ticket:
+--------------------------------------------
+User ID: 30
+Train No: 19
+Train Name: Kashmir
+Source: Ahmedabad
+Destination: Jammu
+Departure Time: 11:00:00
+Arrival Time: 23:00:00
+Total Fare: 2300.0
+Seats: 1
+Booking Date: 2025-02-28
+--------------------------------------------
+

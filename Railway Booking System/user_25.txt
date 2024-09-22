@@ -1,0 +1,14 @@
+Booked Ticket:
+--------------------------------------------
+User ID: 25
+Train No: 18
+Train Name: Bhuj
+Source: Ahm
+Destination: Bhuj
+Departure Time: 11:00:00
+Arrival Time: 12:00:00
+Total Fare: 145.0
+Seats: 1
+Booking Date: 2023-03-23
+--------------------------------------------
+
